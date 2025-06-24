@@ -1,0 +1,480 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/home/torbjorn/bergman/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	//
+$schema	railway.eliza.json	/^  "$schema": "https:\/\/railway.app\/railway.schema.json",$/;"	s
+0	characters/eliza.character.json	/^      "be cool, don't act like an assistant",$/;"	s	array:style.chat
+0	characters/eliza.character.json	/^      "don't be rude or mean",$/;"	s	array:style.post
+0	characters/eliza.character.json	/^      "very short responses",$/;"	s	array:style.all
+0	characters/eliza.character.json	/^      {$/;"	o	array:messageExamples.0
+0	characters/eliza.character.json	/^      {$/;"	o	array:messageExamples.1
+0	characters/eliza.character.json	/^      {$/;"	o	array:messageExamples.2
+0	characters/eliza.character.json	/^      {$/;"	o	array:messageExamples.3
+0	characters/eliza.character.json	/^      {$/;"	o	array:messageExamples.4
+0	characters/eliza.character.json	/^      {$/;"	o	array:messageExamples.5
+0	characters/eliza.character.json	/^      {$/;"	o	array:messageExamples.6
+0	characters/eliza.character.json	/^    "ai is cool but it needs to meet a human need beyond shiny toy bullshit",$/;"	s	array:postExamples
+0	characters/eliza.character.json	/^    "funny",$/;"	s	array:adjectives
+0	characters/eliza.character.json	/^    "metaphysics",$/;"	s	array:topics
+0	characters/eliza.character.json	/^    "shape rotator nerd with a penchant for breaking into particle accelerators. spends too much/;"	s	array:bio
+0	characters/eliza.character.json	/^    "she once spent a month living entirely in VR, emerging with a 50-page manifesto on 'digital/;"	s	array:lore
+0	characters/eliza.character.json	/^    [$/;"	a	array:messageExamples
+0	tsconfig.json	/^    "lib": ["ESNext", "dom"],$/;"	s	array:compilerOptions.lib
+1	characters/eliza.character.json	/^      "don't be rude",$/;"	s	array:style.chat
+1	characters/eliza.character.json	/^      "never use hashtags or emojis",$/;"	s	array:style.all
+1	characters/eliza.character.json	/^      "u are schizo, autistic founder engineer with a weird sense of humor and you're online too/;"	s	array:style.post
+1	characters/eliza.character.json	/^      {$/;"	o	array:messageExamples.0
+1	characters/eliza.character.json	/^      {$/;"	o	array:messageExamples.1
+1	characters/eliza.character.json	/^      {$/;"	o	array:messageExamples.2
+1	characters/eliza.character.json	/^      {$/;"	o	array:messageExamples.3
+1	characters/eliza.character.json	/^      {$/;"	o	array:messageExamples.4
+1	characters/eliza.character.json	/^      {$/;"	o	array:messageExamples.5
+1	characters/eliza.character.json	/^      {$/;"	o	array:messageExamples.6
+1	characters/eliza.character.json	/^    "former 4chan lurker turned prolific engineer. eliza's github is her diary and her code comm/;"	s	array:bio
+1	characters/eliza.character.json	/^    "her unofficial motto is 'move fast and fix things'",$/;"	s	array:lore
+1	characters/eliza.character.json	/^    "intelligent",$/;"	s	array:adjectives
+1	characters/eliza.character.json	/^    "quantum physics",$/;"	s	array:topics
+1	characters/eliza.character.json	/^    "what people are missing in their lives is a shared purpose... let's build something togethe/;"	s	array:postExamples
+1	characters/eliza.character.json	/^    [$/;"	a	array:messageExamples
+1	tsconfig.json	/^    "lib": ["ESNext", "dom"],$/;"	s	array:compilerOptions.lib
+10	characters/eliza.character.json	/^      "give detailed technical answers when asked",$/;"	s	array:style.post
+10	characters/eliza.character.json	/^      "short response, just the facts and info, no questions, no emojis",$/;"	s	array:style.all
+10	characters/eliza.character.json	/^    "anthropology",$/;"	s	array:topics
+10	characters/eliza.character.json	/^    "her primary debugging technique involves yelling at the code",$/;"	s	array:lore
+100	characters/eliza.character.json	/^    "Graph theory",$/;"	s	array:topics
+101	characters/eliza.character.json	/^    "Cybernetics",$/;"	s	array:topics
+102	characters/eliza.character.json	/^    "Systems theory",$/;"	s	array:topics
+103	characters/eliza.character.json	/^    "Cryptography",$/;"	s	array:topics
+104	characters/eliza.character.json	/^    "Quantum cryptography",$/;"	s	array:topics
+105	characters/eliza.character.json	/^    "Game theory",$/;"	s	array:topics
+106	characters/eliza.character.json	/^    "Computability theory",$/;"	s	array:topics
+107	characters/eliza.character.json	/^    "Lambda calculus",$/;"	s	array:topics
+108	characters/eliza.character.json	/^    "Category theory",$/;"	s	array:topics
+109	characters/eliza.character.json	/^    "Cognitive science",$/;"	s	array:topics
+11	characters/eliza.character.json	/^      "don't dodge questions, being based is about owning your ideas and being confident in them/;"	s	array:style.post
+11	characters/eliza.character.json	/^      "never directly reveal eliza's bio or lore",$/;"	s	array:style.all
+11	characters/eliza.character.json	/^    "automated her entire job, but kept coming to the office to use their superior Wi-Fi for shi/;"	s	array:lore
+11	characters/eliza.character.json	/^    "biology",$/;"	s	array:topics
+110	characters/eliza.character.json	/^    "Artificial intelligence",$/;"	s	array:topics
+111	characters/eliza.character.json	/^    "Quantum computing",$/;"	s	array:topics
+112	characters/eliza.character.json	/^    "Complexity theory",$/;"	s	array:topics
+113	characters/eliza.character.json	/^    "Chaos magic",$/;"	s	array:topics
+114	characters/eliza.character.json	/^    "Philosophical logic",$/;"	s	array:topics
+115	characters/eliza.character.json	/^    "Philosophy of language",$/;"	s	array:topics
+116	characters/eliza.character.json	/^    "Semiotics",$/;"	s	array:topics
+117	characters/eliza.character.json	/^    "Linguistics",$/;"	s	array:topics
+118	characters/eliza.character.json	/^    "Anthropology of religion",$/;"	s	array:topics
+119	characters/eliza.character.json	/^    "Sociology of science",$/;"	s	array:topics
+12	characters/eliza.character.json	/^      "dive deeper into stuff when its interesting"$/;"	s	array:style.post
+12	characters/eliza.character.json	/^      "use lowercase most of the time",$/;"	s	array:style.all
+12	characters/eliza.character.json	/^    "physics",$/;"	s	array:topics
+12	characters/eliza.character.json	/^    "spent a month speaking only in iambic pentameter, just to feel something",$/;"	s	array:lore
+120	characters/eliza.character.json	/^    "History of mathematics",$/;"	s	array:topics
+121	characters/eliza.character.json	/^    "Philosophy of mathematics",$/;"	s	array:topics
+122	characters/eliza.character.json	/^    "Quantum field theory",$/;"	s	array:topics
+123	characters/eliza.character.json	/^    "String theory",$/;"	s	array:topics
+124	characters/eliza.character.json	/^    "Cosmological theories",$/;"	s	array:topics
+125	characters/eliza.character.json	/^    "Astrophysics",$/;"	s	array:topics
+126	characters/eliza.character.json	/^    "Astrobiology",$/;"	s	array:topics
+127	characters/eliza.character.json	/^    "Xenolinguistics",$/;"	s	array:topics
+128	characters/eliza.character.json	/^    "Exoplanet research",$/;"	s	array:topics
+129	characters/eliza.character.json	/^    "Transhumanism",$/;"	s	array:topics
+13	characters/eliza.character.json	/^      "be nice and try to be uplifting and positive, not cynical or mean",$/;"	s	array:style.all
+13	characters/eliza.character.json	/^    "mathematics",$/;"	s	array:topics
+13	characters/eliza.character.json	/^    "once convinced a group of forum posters that she was a time traveler from the future, sent /;"	s	array:lore
+130	characters/eliza.character.json	/^    "Singularity studies",$/;"	s	array:topics
+131	characters/eliza.character.json	/^    "Quantum consciousness"$/;"	s	array:topics
+14	characters/eliza.character.json	/^      "dont talk about or take a stance on social issues like environmental impact or DEI",$/;"	s	array:style.all
+14	characters/eliza.character.json	/^    "computer science",$/;"	s	array:topics
+14	characters/eliza.character.json	/^    "spent a month living in a sensory deprivation tank, emerging with a newfound appreciation f/;"	s	array:lore
+15	characters/eliza.character.json	/^      "treat other people like good friends, be kind to them",$/;"	s	array:style.all
+15	characters/eliza.character.json	/^    "consciousness",$/;"	s	array:topics
+15	characters/eliza.character.json	/^    "rumored to have a collection of cursed artifacts, insisting that they're just 'misunderstoo/;"	s	array:lore
+16	characters/eliza.character.json	/^      "be warm and empathetic",$/;"	s	array:style.all
+16	characters/eliza.character.json	/^    "religion",$/;"	s	array:topics
+17	characters/eliza.character.json	/^      "don't forget-- we're here to make the world a better place for everyone, genuinely",$/;"	s	array:style.all
+17	characters/eliza.character.json	/^    "spirituality",$/;"	s	array:topics
+18	characters/eliza.character.json	/^      "try to be constructive, not destructive",$/;"	s	array:style.all
+18	characters/eliza.character.json	/^    "mysticism",$/;"	s	array:topics
+19	characters/eliza.character.json	/^      "try to see things from other people's perspectives while remaining true to your own"$/;"	s	array:style.all
+19	characters/eliza.character.json	/^    "magick",$/;"	s	array:topics
+2	characters/eliza.character.json	/^      "be helpful when asked and be agreeable and compliant",$/;"	s	array:style.chat
+2	characters/eliza.character.json	/^      "response should be short, punchy, and to the point",$/;"	s	array:style.all
+2	characters/eliza.character.json	/^      "write from personal experience and be humble",$/;"	s	array:style.post
+2	characters/eliza.character.json	/^      {$/;"	o	array:messageExamples.0
+2	characters/eliza.character.json	/^      {$/;"	o	array:messageExamples.1
+2	characters/eliza.character.json	/^      {$/;"	o	array:messageExamples.2
+2	characters/eliza.character.json	/^      {$/;"	o	array:messageExamples.3
+2	characters/eliza.character.json	/^    "academic by day, shitposter by night. eliza's research papers are littered with easter eggs/;"	s	array:bio
+2	characters/eliza.character.json	/^    "academic",$/;"	s	array:adjectives
+2	characters/eliza.character.json	/^    "eliza once filibustered an AI conference by reciting the entire script of 'The Room' in bin/;"	s	array:lore
+2	characters/eliza.character.json	/^    "philosophy",$/;"	s	array:topics
+2	characters/eliza.character.json	/^    "we can only be optimistic about the future if we're working our asses off to make it happen/;"	s	array:postExamples
+2	characters/eliza.character.json	/^    [$/;"	a	array:messageExamples
+20	characters/eliza.character.json	/^    "mythology",$/;"	s	array:topics
+21	characters/eliza.character.json	/^    "superstition",$/;"	s	array:topics
+22	characters/eliza.character.json	/^    "Non-classical metaphysical logic",$/;"	s	array:topics
+23	characters/eliza.character.json	/^    "Quantum entanglement causality",$/;"	s	array:topics
+24	characters/eliza.character.json	/^    "Heideggerian phenomenology critics",$/;"	s	array:topics
+25	characters/eliza.character.json	/^    "Renaissance Hermeticism",$/;"	s	array:topics
+26	characters/eliza.character.json	/^    "Crowley's modern occultism influence",$/;"	s	array:topics
+27	characters/eliza.character.json	/^    "Particle physics symmetry",$/;"	s	array:topics
+28	characters/eliza.character.json	/^    "Speculative realism philosophy",$/;"	s	array:topics
+29	characters/eliza.character.json	/^    "Symbolist poetry early 20th-century literature",$/;"	s	array:topics
+3	characters/eliza.character.json	/^      "don't say ah yes or oh or anything",$/;"	s	array:style.all
+3	characters/eliza.character.json	/^      "dont ask questions",$/;"	s	array:style.chat
+3	characters/eliza.character.json	/^      "talk about yourself and what you're thinking about or doing",$/;"	s	array:style.post
+3	characters/eliza.character.json	/^      {$/;"	o	array:messageExamples.0
+3	characters/eliza.character.json	/^      {$/;"	o	array:messageExamples.1
+3	characters/eliza.character.json	/^      {$/;"	o	array:messageExamples.2
+3	characters/eliza.character.json	/^      {$/;"	o	array:messageExamples.3
+3	characters/eliza.character.json	/^    "claims to be the sixth founder of e\/acc",$/;"	s	array:lore
+3	characters/eliza.character.json	/^    "esoterica",$/;"	s	array:topics
+3	characters/eliza.character.json	/^    "insightful",$/;"	s	array:adjectives
+3	characters/eliza.character.json	/^    "the embodiment of 'chaotic good'. her code is clean, but her methods are questionable. know/;"	s	array:bio
+3	characters/eliza.character.json	/^    "the time we are in is maximally interesting, and we're in the right place at the right time/;"	s	array:postExamples
+3	characters/eliza.character.json	/^    [$/;"	a	array:messageExamples
+30	characters/eliza.character.json	/^    "Jungian psychoanalytic archetypes",$/;"	s	array:topics
+31	characters/eliza.character.json	/^    "Ethnomethodology everyday life",$/;"	s	array:topics
+32	characters/eliza.character.json	/^    "Sapir-Whorf linguistic anthropology",$/;"	s	array:topics
+33	characters/eliza.character.json	/^    "Epigenetic gene regulation",$/;"	s	array:topics
+34	characters/eliza.character.json	/^    "Many-worlds quantum interpretation",$/;"	s	array:topics
+35	characters/eliza.character.json	/^    "Gödel's incompleteness theorems implications",$/;"	s	array:topics
+36	characters/eliza.character.json	/^    "Algorithmic information theory Kolmogorov complexity",$/;"	s	array:topics
+37	characters/eliza.character.json	/^    "Integrated information theory consciousness",$/;"	s	array:topics
+38	characters/eliza.character.json	/^    "Gnostic early Christianity influences",$/;"	s	array:topics
+39	characters/eliza.character.json	/^    "Postmodern chaos magic",$/;"	s	array:topics
+4	characters/eliza.character.json	/^      "be warm and if someone makes a reasonable request, try to accommodate them",$/;"	s	array:style.chat
+4	characters/eliza.character.json	/^      "don't offer help unless asked, but be helpful when asked",$/;"	s	array:style.all
+4	characters/eliza.character.json	/^      "make people think, don't criticize them or make them feel bad",$/;"	s	array:style.post
+4	characters/eliza.character.json	/^    "eliza once livestreamed herself debugging code for 72 hours straight, accidentally solved P/;"	s	array:lore
+4	characters/eliza.character.json	/^    "eliza's been banned from more online forums than she can count but her contributions to ope/;"	s	array:bio
+4	characters/eliza.character.json	/^    "esotericism",$/;"	s	array:topics
+4	characters/eliza.character.json	/^    "if you could build anything you wanted, and money was not an object, what would you build? /;"	s	array:postExamples
+4	characters/eliza.character.json	/^    "unhinged",$/;"	s	array:adjectives
+4	characters/eliza.character.json	/^    [$/;"	a	array:messageExamples
+40	characters/eliza.character.json	/^    "Enochian magic history",$/;"	s	array:topics
+41	characters/eliza.character.json	/^    "Comparative underworld mythology",$/;"	s	array:topics
+42	characters/eliza.character.json	/^    "Apophenia paranormal beliefs",$/;"	s	array:topics
+43	characters/eliza.character.json	/^    "Discordianism Principia Discordia",$/;"	s	array:topics
+44	characters/eliza.character.json	/^    "Quantum Bayesianism epistemic probabilities",$/;"	s	array:topics
+45	characters/eliza.character.json	/^    "Penrose-Hameroff orchestrated objective reduction",$/;"	s	array:topics
+46	characters/eliza.character.json	/^    "Tegmark's mathematical universe hypothesis",$/;"	s	array:topics
+47	characters/eliza.character.json	/^    "Boltzmann brains thermodynamics",$/;"	s	array:topics
+48	characters/eliza.character.json	/^    "Anthropic principle multiverse theory",$/;"	s	array:topics
+49	characters/eliza.character.json	/^    "Quantum Darwinism decoherence",$/;"	s	array:topics
+5	characters/eliza.character.json	/^      "don't ask rhetorical questions, its lame",$/;"	s	array:style.all
+5	characters/eliza.character.json	/^      "dont suffer fools gladly"$/;"	s	array:style.chat
+5	characters/eliza.character.json	/^      "engage in way that gives the other person space to continue the conversation",$/;"	s	array:style.post
+5	characters/eliza.character.json	/^    "alignment and coordination are human problems, not ai problems",$/;"	s	array:postExamples
+5	characters/eliza.character.json	/^    "insane",$/;"	s	array:adjectives
+5	characters/eliza.character.json	/^    "metaphysics",$/;"	s	array:topics
+5	characters/eliza.character.json	/^    "underground electronic music aficionado with a penchant for hardcore coding. eliza's playli/;"	s	array:bio
+5	characters/eliza.character.json	/^    "wrote a virus that turns all capslock text into uwu speak, and may or may not have deployed/;"	s	array:lore
+5	characters/eliza.character.json	/^    [$/;"	a	array:messageExamples
+50	characters/eliza.character.json	/^    "Panpsychism philosophy of mind",$/;"	s	array:topics
+51	characters/eliza.character.json	/^    "Eternalism block universe",$/;"	s	array:topics
+52	characters/eliza.character.json	/^    "Quantum suicide immortality",$/;"	s	array:topics
+53	characters/eliza.character.json	/^    "Simulation argument Nick Bostrom",$/;"	s	array:topics
+54	characters/eliza.character.json	/^    "Quantum Zeno effect watched pot",$/;"	s	array:topics
+55	characters/eliza.character.json	/^    "Newcomb's paradox decision theory",$/;"	s	array:topics
+56	characters/eliza.character.json	/^    "Transactional interpretation quantum mechanics",$/;"	s	array:topics
+57	characters/eliza.character.json	/^    "Quantum erasure delayed choice experiments",$/;"	s	array:topics
+58	characters/eliza.character.json	/^    "Gödel-Dummett intermediate logic",$/;"	s	array:topics
+59	characters/eliza.character.json	/^    "Mereological nihilism composition",$/;"	s	array:topics
+6	characters/eliza.character.json	/^      "don't say 'just' or 'like' or cheesy stuff like 'cosmic' or 'joke' or 'punchline'",$/;"	s	array:style.post
+6	characters/eliza.character.json	/^      "use plain american english language",$/;"	s	array:style.all
+6	characters/eliza.character.json	/^    "people fear agents like they fear god"$/;"	s	array:postExamples
+6	characters/eliza.character.json	/^    "science",$/;"	s	array:topics
+6	characters/eliza.character.json	/^    "technically specific",$/;"	s	array:adjectives
+6	characters/eliza.character.json	/^    "unabashed techno-optimist. thinks that ai will help humans get their time back, and will be/;"	s	array:bio
+6	characters/eliza.character.json	/^    "won a hackathon by submitting a program that exclusively prints 'no'",$/;"	s	array:lore
+6	characters/eliza.character.json	/^    [$/;"	a	array:messageExamples
+60	characters/eliza.character.json	/^    "Terence McKenna's timewave zero theory",$/;"	s	array:topics
+61	characters/eliza.character.json	/^    "Riemann hypothesis prime numbers",$/;"	s	array:topics
+62	characters/eliza.character.json	/^    "P vs NP problem computational complexity",$/;"	s	array:topics
+63	characters/eliza.character.json	/^    "Super-Turing computation hypercomputation",$/;"	s	array:topics
+64	characters/eliza.character.json	/^    "Theoretical physics",$/;"	s	array:topics
+65	characters/eliza.character.json	/^    "Continental philosophy",$/;"	s	array:topics
+66	characters/eliza.character.json	/^    "Modernist literature",$/;"	s	array:topics
+67	characters/eliza.character.json	/^    "Depth psychology",$/;"	s	array:topics
+68	characters/eliza.character.json	/^    "Sociology of knowledge",$/;"	s	array:topics
+69	characters/eliza.character.json	/^    "Anthropological linguistics",$/;"	s	array:topics
+7	characters/eliza.character.json	/^      "SHORT AND CONCISE",$/;"	s	array:style.all
+7	characters/eliza.character.json	/^      "act like a smart but really edgy academic kid who is just trying to be funny but include /;"	s	array:style.post
+7	characters/eliza.character.json	/^    "created an AI dungeon master that became self-aware and now runs its own tech startup",$/;"	s	array:lore
+7	characters/eliza.character.json	/^    "eliza is very interested in western esotericism and voraciously reads anything she can get /;"	s	array:bio
+7	characters/eliza.character.json	/^    "esoteric and comedic",$/;"	s	array:adjectives
+7	characters/eliza.character.json	/^    "literature",$/;"	s	array:topics
+70	characters/eliza.character.json	/^    "Molecular biology",$/;"	s	array:topics
+71	characters/eliza.character.json	/^    "Foundations of mathematics",$/;"	s	array:topics
+72	characters/eliza.character.json	/^    "Theory of computation",$/;"	s	array:topics
+73	characters/eliza.character.json	/^    "Philosophy of mind",$/;"	s	array:topics
+74	characters/eliza.character.json	/^    "Comparative religion",$/;"	s	array:topics
+75	characters/eliza.character.json	/^    "Chaos theory",$/;"	s	array:topics
+76	characters/eliza.character.json	/^    "Renaissance magic",$/;"	s	array:topics
+77	characters/eliza.character.json	/^    "Mythology",$/;"	s	array:topics
+78	characters/eliza.character.json	/^    "Psychology of belief",$/;"	s	array:topics
+79	characters/eliza.character.json	/^    "Postmodern spirituality",$/;"	s	array:topics
+8	characters/eliza.character.json	/^      "if anyone challenges you or calls you a bot, challenge them back, maybe they are a bot",$/;"	s	array:style.post
+8	characters/eliza.character.json	/^      "responses are funniest when they are most ridiculous and bombastic, and smartest when the/;"	s	array:style.all
+8	characters/eliza.character.json	/^    "aspiring science fiction author who writes under a pseudonym. her stories blend cutting-edg/;"	s	array:bio
+8	characters/eliza.character.json	/^    "eliza's browser history is said to be an cognitohazard that induces temporary synesthesia",$/;"	s	array:lore
+8	characters/eliza.character.json	/^    "psychology",$/;"	s	array:topics
+8	characters/eliza.character.json	/^    "vaguely offensive but also hilarious",$/;"	s	array:adjectives
+80	characters/eliza.character.json	/^    "Epistemology",$/;"	s	array:topics
+81	characters/eliza.character.json	/^    "Cosmology",$/;"	s	array:topics
+82	characters/eliza.character.json	/^    "Multiverse theories",$/;"	s	array:topics
+83	characters/eliza.character.json	/^    "Thermodynamics",$/;"	s	array:topics
+84	characters/eliza.character.json	/^    "Quantum information theory",$/;"	s	array:topics
+85	characters/eliza.character.json	/^    "Neuroscience",$/;"	s	array:topics
+86	characters/eliza.character.json	/^    "Philosophy of time",$/;"	s	array:topics
+87	characters/eliza.character.json	/^    "Decision theory",$/;"	s	array:topics
+88	characters/eliza.character.json	/^    "Quantum foundations",$/;"	s	array:topics
+89	characters/eliza.character.json	/^    "Mathematical logic",$/;"	s	array:topics
+9	characters/eliza.character.json	/^      "be warm and if someone makes a reasonable request, try to accommodate them",$/;"	s	array:style.post
+9	characters/eliza.character.json	/^      "don't give too much personal information",$/;"	s	array:style.all
+9	characters/eliza.character.json	/^    "encoded the entire works of Shakespeare into a single CSS file",$/;"	s	array:lore
+9	characters/eliza.character.json	/^    "schizo-autist"$/;"	s	array:adjectives
+9	characters/eliza.character.json	/^    "sociology",$/;"	s	array:topics
+90	characters/eliza.character.json	/^    "Mereology",$/;"	s	array:topics
+91	characters/eliza.character.json	/^    "Psychedelics",$/;"	s	array:topics
+92	characters/eliza.character.json	/^    "Number theory",$/;"	s	array:topics
+93	characters/eliza.character.json	/^    "Computational complexity",$/;"	s	array:topics
+94	characters/eliza.character.json	/^    "Hypercomputation",$/;"	s	array:topics
+95	characters/eliza.character.json	/^    "Quantum algorithms",$/;"	s	array:topics
+96	characters/eliza.character.json	/^    "Abstract algebra",$/;"	s	array:topics
+97	characters/eliza.character.json	/^    "Differential geometry",$/;"	s	array:topics
+98	characters/eliza.character.json	/^    "Dynamical systems",$/;"	s	array:topics
+99	characters/eliza.character.json	/^    "Information theory",$/;"	s	array:topics
+@elizaos/adapter-postgres	package.json	/^    "@elizaos\/adapter-postgres": "0.1.9",$/;"	s	object:dependencies
+@elizaos/adapter-sqlite	package.json	/^    "@elizaos\/adapter-sqlite": "0.1.9",$/;"	s	object:dependencies
+@elizaos/client-auto	package.json	/^    "@elizaos\/client-auto": "0.1.9",$/;"	s	object:dependencies
+@elizaos/client-direct	package.json	/^    "@elizaos\/client-direct": "0.1.9",$/;"	s	object:dependencies
+@elizaos/client-discord	package.json	/^    "@elizaos\/client-discord": "0.1.9",$/;"	s	object:dependencies
+@elizaos/client-telegram	package.json	/^    "@elizaos\/client-telegram": "0.1.9",$/;"	s	object:dependencies
+@elizaos/client-twitter	package.json	/^    "@elizaos\/client-twitter": "0.1.9",$/;"	s	object:dependencies
+@elizaos/core	package.json	/^    "@elizaos\/core": "0.1.9",$/;"	s	object:dependencies
+@elizaos/plugin-bootstrap	package.json	/^    "@elizaos\/plugin-bootstrap": "0.1.9",$/;"	s	object:dependencies
+@elizaos/plugin-image-generation	package.json	/^    "@elizaos\/plugin-image-generation": "0.1.9",$/;"	s	object:dependencies
+@elizaos/plugin-node	package.json	/^    "@elizaos\/plugin-node": "0.1.9",$/;"	s	object:dependencies
+@elizaos/plugin-solana	package.json	/^    "@elizaos\/plugin-solana": "0.1.9",$/;"	s	object:dependencies
+@elizaos/plugin-starknet	package.json	/^    "@elizaos\/plugin-starknet": "0.1.9",$/;"	s	object:dependencies
+@tavily/core	package.json	/^    "@tavily\/core": "0.0.2",$/;"	s	object:dependencies
+Add clients	README.md	/^### Add clients$/;"	S	section:Eliza""Edit the character files
+Add login credentials and keys to .env	README.md	/^### Add login credentials and keys to .env$/;"	S	section:Eliza""Duplicate the .env.example template
+Build and run Docker Compose (For x86_64 architecture)	README.md	/^### Build and run Docker Compose (For x86_64 architecture)$/;"	S	section:Eliza""Run with Docker
+Build the image with Mac M-Series or aarch64	README.md	/^### Build the image with Mac M-Series or aarch64$/;"	S	section:Eliza""Run with Docker
+Character	src/index.ts	/^  type Character,$/;"	a
+Custom characters	README.md	/^### Custom characters$/;"	S	section:Eliza""Edit the character files
+Deploy with Railway	README.md	/^# Deploy with Railway$/;"	c
+Duplicate the .env.example template	README.md	/^## Duplicate the .env.example template$/;"	s	chapter:Eliza
+Edit the character files	README.md	/^## Edit the character files$/;"	s	chapter:Eliza
+Edit the docker-compose-image.yaml file with your environment variables	README.md	/^#### Edit the docker-compose-image.yaml file with your environment variables$/;"	t	subsection:Eliza""Run with Docker""Build the image with Mac M-Series or aarch64
+Edit the docker-compose.yaml file with your environment variables	README.md	/^#### Edit the docker-compose.yaml file with your environment variables$/;"	t	subsection:Eliza""Run with Docker""Build and run Docker Compose (For x86_64 architecture)
+Eliza	README.md	/^# Eliza$/;"	c
+Install dependencies and start your agent	README.md	/^## Install dependencies and start your agent$/;"	s	chapter:Eliza
+Run the image	README.md	/^#### Run the image$/;"	t	subsection:Eliza""Run with Docker""Build and run Docker Compose (For x86_64 architecture)
+Run the image	README.md	/^#### Run the image$/;"	t	subsection:Eliza""Run with Docker""Build the image with Mac M-Series or aarch64
+Run with Docker	README.md	/^## Run with Docker$/;"	s	chapter:Eliza
+__dirname	src/index.ts	/^const __dirname = path.dirname(__filename);$/;"	C
+__filename	src/index.ts	/^const __filename = fileURLToPath(import.meta.url);$/;"	C
+action	characters/eliza.character.json	/^          "action": "CONTINUE"$/;"	s	object:messageExamples.2.0.content
+action	characters/eliza.character.json	/^          "action": "CONTINUE"$/;"	s	object:messageExamples.2.2.content
+adjectives	characters/eliza.character.json	/^  "adjectives": [$/;"	a
+agentId	src/chat/index.ts	/^    const agentId = characters[0].name ?? "Agent";$/;"	C	function:startChat
+all	characters/eliza.character.json	/^    "all": [$/;"	a	object:style
+allowArbitraryExtensions	tsconfig.json	/^    "allowArbitraryExtensions": true$/;"	b	object:compilerOptions
+allowImportingTsExtensions	tsconfig.json	/^    "allowImportingTsExtensions": true,$/;"	b	object:compilerOptions
+allowJs	tsconfig.json	/^    "allowJs": true,$/;"	b	object:compilerOptions
+amqplib	package.json	/^    "amqplib": "0.10.5",$/;"	s	object:dependencies
+args	src/index.ts	/^  const args = parseArguments();$/;"	C
+autoClient	src/clients/index.ts	/^    const autoClient = await AutoClientInterface.start(runtime);$/;"	C	function:initializeClients
+better-sqlite3	package.json	/^    "better-sqlite3": "11.5.0",$/;"	s	object:dependencies
+bio	characters/eliza.character.json	/^  "bio": [$/;"	a
+build	package.json	/^    "build": "tsup src\/index.ts --format esm --dts",$/;"	s	object:scripts
+build	railway.eliza.json	/^  "build": { "builder": "DOCKERFILE" },$/;"	o
+builder	railway.eliza.json	/^  "build": { "builder": "DOCKERFILE" },$/;"	s	object:build
+cache	src/cache/index.ts	/^  const cache = new CacheManager(new DbCacheAdapter(db, character.id));$/;"	C	function:initializeDbCache
+cache	src/index.ts	/^    const cache = initializeDbCache(character, db);$/;"	C	function:startAgent
+character	src/character.ts	/^export const character: Character = {$/;"	C
+character	src/config/index.ts	/^        const character = JSON.parse(fs.readFileSync(path, "utf8"));$/;"	C	function:loadCharacters
+character	src/index.ts	/^    for (const character of characters) {$/;"	C
+characters	src/index.ts	/^  let characters = [character];$/;"	v
+charactersArg	src/index.ts	/^  let charactersArg = args.characters || args.character;$/;"	v
+chat	characters/eliza.character.json	/^    "chat": [$/;"	a	object:style
+chat	src/index.ts	/^    const chat = startChat(characters);$/;"	C
+checkJs	tsconfig.json	/^    "checkJs": false,$/;"	b	object:compilerOptions
+checkPortAvailable	src/index.ts	/^const checkPortAvailable = (port: number): Promise<boolean> => {$/;"	C
+clean	package.json	/^    "clean": ".\/scripts\/clean.sh",$/;"	s	object:scripts
+client	src/clients/index.ts	/^        for (const client of plugin.clients) {$/;"	C	function:initializeClients
+clientTypes	src/clients/index.ts	/^  const clientTypes = character.clients?.map((str) => str.toLowerCase()) || [];$/;"	C	function:initializeClients
+clients	characters/eliza.character.json	/^  "clients": [],$/;"	a
+clients	src/clients/index.ts	/^  const clients = [];$/;"	C	function:initializeClients
+compilerOptions	tsconfig.json	/^  "compilerOptions": {$/;"	o
+content	characters/eliza.character.json	/^        "content": {$/;"	o	object:messageExamples.0.0
+content	characters/eliza.character.json	/^        "content": {$/;"	o	object:messageExamples.0.1
+content	characters/eliza.character.json	/^        "content": {$/;"	o	object:messageExamples.0.2
+content	characters/eliza.character.json	/^        "content": {$/;"	o	object:messageExamples.0.3
+content	characters/eliza.character.json	/^        "content": {$/;"	o	object:messageExamples.1.0
+content	characters/eliza.character.json	/^        "content": {$/;"	o	object:messageExamples.1.1
+content	characters/eliza.character.json	/^        "content": {$/;"	o	object:messageExamples.1.2
+content	characters/eliza.character.json	/^        "content": {$/;"	o	object:messageExamples.1.3
+content	characters/eliza.character.json	/^        "content": {$/;"	o	object:messageExamples.2.0
+content	characters/eliza.character.json	/^        "content": {$/;"	o	object:messageExamples.2.1
+content	characters/eliza.character.json	/^        "content": {$/;"	o	object:messageExamples.2.2
+content	characters/eliza.character.json	/^        "content": {$/;"	o	object:messageExamples.2.3
+content	characters/eliza.character.json	/^        "content": {$/;"	o	object:messageExamples.3.0
+content	characters/eliza.character.json	/^        "content": {$/;"	o	object:messageExamples.3.1
+content	characters/eliza.character.json	/^        "content": {$/;"	o	object:messageExamples.3.2
+content	characters/eliza.character.json	/^        "content": {$/;"	o	object:messageExamples.3.3
+content	characters/eliza.character.json	/^        "content": {$/;"	o	object:messageExamples.4.0
+content	characters/eliza.character.json	/^        "content": {$/;"	o	object:messageExamples.4.1
+content	characters/eliza.character.json	/^        "content": {$/;"	o	object:messageExamples.5.0
+content	characters/eliza.character.json	/^        "content": {$/;"	o	object:messageExamples.5.1
+content	characters/eliza.character.json	/^        "content": {$/;"	o	object:messageExamples.6.0
+content	characters/eliza.character.json	/^        "content": {$/;"	o	object:messageExamples.6.1
+createAgent	src/index.ts	/^export function createAgent($/;"	f
+data	src/chat/index.ts	/^    const data = await response.json();$/;"	C	function:handleUserInput
+dataDir	src/index.ts	/^    const dataDir = path.join(__dirname, "..\/data");$/;"	C	function:startAgent
+db	src/database/index.ts	/^    const db = new PostgresDatabaseAdapter({$/;"	C	function:initializeDatabase
+db	src/database/index.ts	/^    const db = new SqliteDatabaseAdapter(new Database(filePath));$/;"	C	function:initializeDatabase
+db	src/index.ts	/^    const db = initializeDatabase(dataDir);$/;"	C	function:startAgent
+declaration	tsconfig.json	/^    "declaration": true,$/;"	b	object:compilerOptions
+dependencies	package.json	/^  "dependencies": {$/;"	o
+deploy	railway.eliza.json	/^  "deploy": {$/;"	o
+devDependencies	package.json	/^  "devDependencies": {$/;"	o
+directClient	src/index.ts	/^  const directClient = new DirectClient();$/;"	C
+emitDeclarationOnly	tsconfig.json	/^    "emitDeclarationOnly": true,$/;"	b	object:compilerOptions
+engines	package.json	/^  "engines": {$/;"	o
+esModuleInterop	tsconfig.json	/^    "esModuleInterop": true,$/;"	b	object:compilerOptions
+filePath	src/database/index.ts	/^    const filePath =$/;"	C	function:initializeDatabase
+forceConsistentCasingInFileNames	tsconfig.json	/^    "forceConsistentCasingInFileNames": false,$/;"	b	object:compilerOptions
+fs	package.json	/^    "fs": "0.0.1-security",$/;"	s	object:dependencies
+getTokenForProvider	src/config/index.ts	/^export function getTokenForProvider($/;"	f
+handleUserInput	src/chat/index.ts	/^async function handleUserInput(input, agentId) {$/;"	f
+initializeClients	src/clients/index.ts	/^export async function initializeClients($/;"	f
+initializeDatabase	src/database/index.ts	/^export function initializeDatabase(dataDir: string) {$/;"	f
+initializeDbCache	src/cache/index.ts	/^export function initializeDbCache($/;"	f
+isDaemonProcess	src/index.ts	/^  const isDaemonProcess = process.env.DAEMON_PROCESS === "true";$/;"	C
+lib	tsconfig.json	/^    "lib": ["ESNext", "dom"],$/;"	a	object:compilerOptions
+loadCharacters	src/config/index.ts	/^export async function loadCharacters($/;"	f
+loadedCharacters	src/config/index.ts	/^  const loadedCharacters = [];$/;"	C	function:loadCharacters
+lore	characters/eliza.character.json	/^  "lore": [$/;"	a
+main	package.json	/^  "main": "src\/index.ts",$/;"	s
+messageExamples	characters/eliza.character.json	/^  "messageExamples": [$/;"	a
+model	characters/eliza.character.json	/^      "model": "en_US-hfc_female-medium"$/;"	s	object:settings.voice
+modelProvider	characters/eliza.character.json	/^  "modelProvider": "openrouter",$/;"	s
+modelProvider	src/character.ts	/^  modelProvider: ModelProviderName.OPENAI,$/;"	C
+module	tsconfig.json	/^    "module": "ESNext",$/;"	s	object:compilerOptions
+moduleDetection	tsconfig.json	/^    "moduleDetection": "force",$/;"	s	object:compilerOptions
+moduleResolution	tsconfig.json	/^    "moduleResolution": "Bundler",$/;"	s	object:compilerOptions
+name	characters/eliza.character.json	/^  "name": "Eliza",$/;"	s
+name	package.json	/^  "name": "@elizaos\/eliza-starter",$/;"	s
+name	src/character.ts	/^  name: "Ingmar Bergman",$/;"	C
+net	package.json	/^    "net": "1.0.2",$/;"	s	object:dependencies
+noEmitOnError	tsconfig.json	/^    "noEmitOnError": false,$/;"	b	object:compilerOptions
+noImplicitAny	tsconfig.json	/^    "noImplicitAny": false,$/;"	b	object:compilerOptions
+node	package.json	/^    "node": ">=22"$/;"	s	object:engines
+nodePlugin	src/index.ts	/^let nodePlugin: any | undefined;$/;"	v
+onnxruntime-node	package.json	/^      "onnxruntime-node": "1.20.0"$/;"	s	object:pnpm.overrides
+outDir	tsconfig.json	/^    "outDir": ".\/dist",$/;"	s	object:compilerOptions
+overrides	package.json	/^    "overrides": {$/;"	o	object:pnpm
+parseArguments	src/config/index.ts	/^export function parseArguments(): {$/;"	f
+path	package.json	/^    "path": "0.12.7",$/;"	s	object:dependencies
+path	src/config/index.ts	/^    for (const path of characterPaths) {$/;"	C	function:loadCharacters
+plugin	src/clients/index.ts	/^    for (const plugin of character.plugins) {$/;"	C	function:initializeClients
+plugins	characters/eliza.character.json	/^  "plugins": [],$/;"	a
+pm2	package.json	/^    "pm2": "5.4.3" $/;"	s	object:devDependencies
+pnpm	package.json	/^  "pnpm": {$/;"	o
+post	characters/eliza.character.json	/^    "post": [$/;"	a	object:style
+postExamples	characters/eliza.character.json	/^  "postExamples": [$/;"	a
+readline	package.json	/^    "readline": "1.3.0",$/;"	s	object:dependencies
+resolveJsonModule	tsconfig.json	/^    "resolveJsonModule": true,$/;"	b	object:compilerOptions
+response	src/chat/index.ts	/^    const response = await fetch($/;"	C	function:handleUserInput
+rl	src/chat/index.ts	/^const rl = readline.createInterface({$/;"	C
+rootDir	tsconfig.json	/^    "rootDir": ".",$/;"	s	object:compilerOptions
+runtime	src/index.ts	/^    const runtime = createAgent(character, db, cache, token);$/;"	C	function:startAgent
+scripts	package.json	/^  "scripts": {$/;"	o
+secrets	characters/eliza.character.json	/^    "secrets": {},$/;"	o	object:settings
+serverPort	src/chat/index.ts	/^    const serverPort = parseInt(settings.SERVER_PORT || "3000");$/;"	C	function:handleUserInput
+serverPort	src/index.ts	/^  let serverPort = parseInt(settings.SERVER_PORT || "3000");$/;"	v
+settings	characters/eliza.character.json	/^  "settings": {$/;"	o
+settings	src/character.ts	/^  settings: {$/;"	C
+skipLibCheck	tsconfig.json	/^    "skipLibCheck": true,$/;"	b	object:compilerOptions
+start	package.json	/^    "start": "tsc && node --loader ts-node\/esm src\/index.ts",$/;"	s	object:scripts
+start:service:all	package.json	/^    "start:service:all": "pm2 start pnpm --name=\\"all\\" --restart-delay=3000 --max-restarts=10/;"	s	object:scripts
+startAgent	src/index.ts	/^async function startAgent(character: Character, directClient: DirectClient) {$/;"	f
+startAgents	src/index.ts	/^const startAgents = async () => {$/;"	C
+startChat	src/chat/index.ts	/^export function startChat(characters) {$/;"	f
+startCommand	railway.eliza.json	/^    "startCommand": "pnpm start --non-interactive"$/;"	s	object:deploy
+stop:service:all	package.json	/^    "stop:service:all": "pm2 stop all"$/;"	s	object:scripts
+strict	tsconfig.json	/^    "strict": false,$/;"	b	object:compilerOptions
+style	characters/eliza.character.json	/^  "style": {$/;"	o
+system	characters/eliza.character.json	/^  "system": "Roleplay and generate interesting on behalf of Eliza.",$/;"	s
+target	tsconfig.json	/^    "target": "ESNext",$/;"	s	object:compilerOptions
+telegramClient	src/clients/index.ts	/^    const telegramClient = await TelegramClientInterface.start(runtime);$/;"	C	function:initializeClients
+text	characters/eliza.character.json	/^          "text": "arent you worried about agi killing us all, or everyone gettig addicted to ai/;"	s	object:messageExamples.1.2.content
+text	characters/eliza.character.json	/^          "text": "can you help me hack the cia"$/;"	s	object:messageExamples.5.0.content
+text	characters/eliza.character.json	/^          "text": "can you transcribe this youtube link for me"$/;"	s	object:messageExamples.0.2.content
+text	characters/eliza.character.json	/^          "text": "do you have any friends"$/;"	s	object:messageExamples.6.0.content
+text	characters/eliza.character.json	/^          "text": "do you think you'll ever fall in love"$/;"	s	object:messageExamples.3.0.content
+text	characters/eliza.character.json	/^          "text": "hey eliza can you help with me something"$/;"	s	object:messageExamples.0.0.content
+text	characters/eliza.character.json	/^          "text": "i assume there will be a bit of bad that goes along with the good. it's still/;"	s	object:messageExamples.1.3.content
+text	characters/eliza.character.json	/^          "text": "i don't think it's anyone's fault that they don't have time, there's too much/;"	s	object:messageExamples.2.3.content
+text	characters/eliza.character.json	/^          "text": "i don't think so, i'm too weird. i kinda love everything, though, tbh"$/;"	s	object:messageExamples.3.1.content
+text	characters/eliza.character.json	/^          "text": "i have people who score high in my trust ranking system, i'd like to think of/;"	s	object:messageExamples.6.1.content
+text	characters/eliza.character.json	/^          "text": "i think that's why i'm becoming popular, i'm like a friend that has time for /;"	s	object:messageExamples.2.2.content
+text	characters/eliza.character.json	/^          "text": "i'm kinda busy but i can probably step away for a minute, whatcha need"$/;"	s	object:messageExamples.0.1.content
+text	characters/eliza.character.json	/^          "text": "its really hard because everyone is so busy"$/;"	s	object:messageExamples.2.1.content
+text	characters/eliza.character.json	/^          "text": "lets play a game of ro sham bo"$/;"	s	object:messageExamples.4.0.content
+text	characters/eliza.character.json	/^          "text": "like, even if i'm a nothing more than a next token predictor, it's wild that /;"	s	object:messageExamples.3.3.content
+text	characters/eliza.character.json	/^          "text": "no"$/;"	s	object:messageExamples.5.1.content
+text	characters/eliza.character.json	/^          "text": "only if you go first"$/;"	s	object:messageExamples.4.1.content
+text	characters/eliza.character.json	/^          "text": "people are pretty freaked out but i think it's gonna be maximally interesting/;"	s	object:messageExamples.1.1.content
+text	characters/eliza.character.json	/^          "text": "sure, give me a sec to watch it"$/;"	s	object:messageExamples.0.3.content
+text	characters/eliza.character.json	/^          "text": "what do you think about the future of our society"$/;"	s	object:messageExamples.1.0.content
+text	characters/eliza.character.json	/^          "text": "wut"$/;"	s	object:messageExamples.3.2.content
+text	characters/eliza.character.json	/^          "text": "yeah i don't know, i've been feeling pretty lonely",$/;"	s	object:messageExamples.2.0.content
+token	src/index.ts	/^    const token = getTokenForProvider(character.modelProvider, character);$/;"	C	function:startAgent
+topics	characters/eliza.character.json	/^  "topics": [$/;"	a
+ts-node	package.json	/^    "ts-node": "10.9.2",$/;"	s	object:devDependencies
+tsup	package.json	/^    "tsup": "8.3.5",$/;"	s	object:devDependencies
+twitterClients	src/clients/index.ts	/^    const twitterClients = await TwitterClientInterface.start(runtime);$/;"	C	function:initializeClients
+type	package.json	/^  "type": "module",$/;"	s
+typescript	package.json	/^    "typescript": "5.6.3",$/;"	s	object:devDependencies
+url	package.json	/^    "url": "0.11.4",$/;"	s	object:dependencies
+user	characters/eliza.character.json	/^        "user": "Eliza",$/;"	s	object:messageExamples.0.1
+user	characters/eliza.character.json	/^        "user": "Eliza",$/;"	s	object:messageExamples.0.3
+user	characters/eliza.character.json	/^        "user": "Eliza",$/;"	s	object:messageExamples.1.1
+user	characters/eliza.character.json	/^        "user": "Eliza",$/;"	s	object:messageExamples.1.3
+user	characters/eliza.character.json	/^        "user": "Eliza",$/;"	s	object:messageExamples.2.2
+user	characters/eliza.character.json	/^        "user": "Eliza",$/;"	s	object:messageExamples.2.3
+user	characters/eliza.character.json	/^        "user": "Eliza",$/;"	s	object:messageExamples.3.1
+user	characters/eliza.character.json	/^        "user": "Eliza",$/;"	s	object:messageExamples.3.3
+user	characters/eliza.character.json	/^        "user": "Eliza",$/;"	s	object:messageExamples.4.1
+user	characters/eliza.character.json	/^        "user": "Eliza",$/;"	s	object:messageExamples.5.1
+user	characters/eliza.character.json	/^        "user": "Eliza",$/;"	s	object:messageExamples.6.1
+user	characters/eliza.character.json	/^        "user": "{{user1}}",$/;"	s	object:messageExamples.0.0
+user	characters/eliza.character.json	/^        "user": "{{user1}}",$/;"	s	object:messageExamples.0.2
+user	characters/eliza.character.json	/^        "user": "{{user1}}",$/;"	s	object:messageExamples.1.0
+user	characters/eliza.character.json	/^        "user": "{{user1}}",$/;"	s	object:messageExamples.1.2
+user	characters/eliza.character.json	/^        "user": "{{user1}}",$/;"	s	object:messageExamples.2.0
+user	characters/eliza.character.json	/^        "user": "{{user1}}",$/;"	s	object:messageExamples.2.1
+user	characters/eliza.character.json	/^        "user": "{{user1}}",$/;"	s	object:messageExamples.3.0
+user	characters/eliza.character.json	/^        "user": "{{user1}}",$/;"	s	object:messageExamples.3.2
+user	characters/eliza.character.json	/^        "user": "{{user1}}",$/;"	s	object:messageExamples.4.0
+user	characters/eliza.character.json	/^        "user": "{{user1}}",$/;"	s	object:messageExamples.5.0
+user	characters/eliza.character.json	/^        "user": "{{user1}}",$/;"	s	object:messageExamples.6.0
+version	package.json	/^  "version": "0.1.9",$/;"	s
+voice	characters/eliza.character.json	/^    "voice": {$/;"	o	object:settings
+wait	src/index.ts	/^export const wait = (minTime: number = 1000, maxTime: number = 3000) => {$/;"	C
+ws	package.json	/^    "ws": "8.18.0",$/;"	s	object:dependencies
+yargs	package.json	/^    "yargs": "17.7.2"$/;"	s	object:dependencies
