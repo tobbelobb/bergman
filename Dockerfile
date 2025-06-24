@@ -56,7 +56,7 @@ COPY --from=builder /app/dist /app/dist
 COPY --from=builder /app/tsconfig.json /app/
 COPY --from=builder /app/pnpm-lock.yaml /app/
 
-EXPOSE 3000 5173
+EXPOSE 3000
 
-CMD ["sh", "-c", "pnpm start --non-interactive & pnpm start:client --non-interactive --host 0.0.0.0 --port 5173"]
+CMD ["pnpm","start","--non-interactive"]
 
